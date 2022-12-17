@@ -1,8 +1,8 @@
-#Netifly link
+Netifly link:
 https://effervescent-belekoy-64c35f.netlify.app/
 
-#GitHub React Version: 
+GitHub React Version: 
 https://github.com/Danjeirys/Fashion-react-app.git
 
-#GitHub Static Version: 
+GitHub Static Version: 
 https://github.com/Danjeirys/Fashionsite-static.git
